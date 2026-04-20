@@ -1,15 +1,15 @@
 
-👨‍💻 Desenvolvedor Back-end (Java)
+<p>👨‍💻 Desenvolvedor Back-end (Java)</p>
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas (Senac-SP)
-☕ Java + Spring Boot (JPA, Flyway) + PostgreSQL
-🚀 Buscando oportunidade de estágio em desenvolvimento back-end
-🧠 Forte interesse em lógica, resolução de problemas e desenvolvimento de software
+<p>🎓 Cursando Análise e Desenvolvimento de Sistemas (Senac-SP)</p>
+<p>☕ Java + Spring Boot (JPA, Flyway) + PostgreSQL</p>
+<p>🚀 Buscando oportunidade de estágio em desenvolvimento back-end</p>
+<p>🧠 Forte interesse em lógica, resolução de problemas e desenvolvimento de software</p>
 
 <br>
 
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,git" />
 </p>
