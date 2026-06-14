@@ -11,5 +11,5 @@
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,postman,git,docker,redis" />
 </p>
